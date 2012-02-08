@@ -1,4 +1,4 @@
-Creating a Stasis App with a Custom Stasis Buildpack on Heroku Cedar (from GitHub)
+Creating a Stasis App with a Custom Stasis Buildpack on Heroku Cedar
 ===
 
 Setup Stasis
